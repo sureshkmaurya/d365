@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to D365 App
 
 You can use the [editor on GitHub](https://github.com/sureshkmaurya/d365/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
